@@ -1,0 +1,1 @@
+For n={n}, find a permutation $a_1, a_2,\ldots, a_n$ of $1, 2, \ldots, n$ such that the differences $|a_i - i|$ are all distinct for $1 \leq i \leq n$. Answer format: Provide the permutation as a list of integers separated by comma. Output only the construction with no extra text.

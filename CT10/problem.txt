@@ -1,0 +1,1 @@
+Given $n={n}$, submit a polynomial with integer coefficients such that $P(1), P(2), \ldots, P(n)$ are distinct powers of 2. Submit your answer as a JSON list integer coefficients in increasing degree order (e.g., [c0, c1, ..., cm] represents P(x)=c0+c1*x+...+cm*x^m). Add nothing else.

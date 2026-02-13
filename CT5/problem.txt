@@ -1,0 +1,1 @@
+Arrange all non-empty subsets of the set $\{{1,\ldots,{n}\}}$ around a circle so that every two neighboring subsets intersect in exactly one element. Provide your construction as a list of lists (JSON-friendly), e.g. [[1,2,3], [3,4,5], ...]. Do not use set braces \{{\}} because they are not valid in JSON inputs.

@@ -1,0 +1,1 @@
+Find positive integers {m} > a > b > {n} such that gcd(a, b) = 1 and (a^2 + b) * (b^2 + a) is a perfect square. Return your answer as a tuple (a, b).

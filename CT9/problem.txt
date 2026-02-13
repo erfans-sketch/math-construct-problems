@@ -1,0 +1,1 @@
+Given $m={m}$, find an integer $n$ and a list of distinct bases $a=(a_1, a_2, ..., a_m)$ with each $a_i > 1$ such that when $n$ is represented in base $a_i$, it is an $m$-digit palindrome for every $i$. Submit your construction as JSON like {{'n': 585, 'a': [2, 3, 4, 5]}}. Add nothing else.

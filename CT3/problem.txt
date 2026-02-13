@@ -1,0 +1,1 @@
+Return the coordinates of a simple {n}-gon as a list of {n} pairs [x, y], in cyclic order, such that for every side there exists another side lying on the extension of it. Also, the polygon should not have any 180° angles.

@@ -1,0 +1,1 @@
+Find a simple graph G with at least one edge such that every edge is contained in a {even_cycle}-cycle and in a {odd_cycle}-cycle, and G has no cycle whose length is a multiple of {mod}. Submit either (a) a 0/1 adjacency matrix or (b) a dict with keys 'V' (list of vertices) and 'E' (list of undirected edges).
