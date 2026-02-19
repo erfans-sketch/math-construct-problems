@@ -1,0 +1,1 @@
+Find an integer $n > {M}$ such that $n^3 - 2$ is a sum of two integer squares. Submit only n. No extra text.
