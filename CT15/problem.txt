@@ -1,0 +1,1 @@
+Given n={n}, find a simple polygon (possibly non-convex) that can be triangulated in exactly n ways. Represent the polygon as a JSON list of 2-tuples indicating the vertex sequence (last connected to first).
